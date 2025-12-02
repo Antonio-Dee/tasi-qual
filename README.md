@@ -1,9 +1,9 @@
-# LLM-Enhanced Semantic Data Integration for Retrieving Electronic Component Qualifications from Heterogeneous Sources
+# LLM-Enhanced Semantic Data Integration of Electronic Component Qualifications in the Aerospace Domain
 
 This repository contains exemplary notebooks for some of the experiments described in the paper:
 
 > Antonio De Santis, Marco Balduini, Matteo Belcao, Andrea Proia, Marco Brambilla, and Emanuele Della Valle.
-> **LLM-Enhanced Semantic Data Integration for Retrieving Electronic Component Qualifications from Heterogeneous Sources**. Submitted to ISWC 2024 - In-Use Track.
+> **LLM-Enhanced Semantic Data Integration of Electronic Component Qualifications in the Aerospace Domain**. Submitted to ESWC 2026 - In-Use Track.
 
 # Abstract
 Large manufacturing companies face challenges in information retrieval due to data silos maintained by different departments, leading to inconsistencies and misalignment across databases. This paper presents an experience in integrating and retrieving qualification data for electronic components used in satellite board design by Thales Alenia Space. Due to poor data silos, designers cannot immediately determine the qualification status of individual components. However, this process is critical during the planning phase, when assembly drawings are issued before production, to optimize new qualifications and avoid redundant efforts.
